@@ -1,0 +1,40 @@
+Procedure text files {Procedure1.txt, Procedure2.txt, Procedure3.txt, Procedure4.txt, Procedure5.txt, Procedure6.txt, Procedure7.txt}
+-------------------------
+
+1. DESCRIPTION
+--------------
+
+Each Procedure text file (hereafter the corpus) is a collection of surgical procedures occuring in either GENOR or HHOR operating rooms.
+
+Procedure1.txt  38,560 records
+Procedure2.txt  36,131 records
+Procedure3.txt  38,641 records
+Procedure4.txt  34,457 records
+Procedure5.txt  33,173 records
+
+
+Each Procedure text file is tab delimited carrying the file extension .txt.
+
+1.1. Compilation
+----------------
+
+This corpus was collected from an academic medical center over the fiscal years 2013 to 2018.
+
+
+1.2. Format
+-----------
+
+The files contain one surgical procedure per line. Each line is composed by two columns: one with label (GENOR or HHOR) and other with the surgical procedure desription. Here are some examples:
+
+GENOR	LOWER EXTREMITY ARTERIAL EVALUATION
+GENOR	ANKLE BRACHIAL INDEX
+GENOR	SURGERY ABORTED-SEE COMMENTS
+GENOR	COLONOSCOPY (OR ONLY)
+HHOR	ENT BEDSIDE TRACH/PEG
+HHOR	ENT FREE FLAP
+HHOR	PLAS FLAP TRAM FREE
+HHOR	VASC BYPASS AORTA BIFEMORAL
+
+Note: procedures are not chronologically sorted.
+
+

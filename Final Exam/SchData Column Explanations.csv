@@ -1,0 +1,28 @@
+﻿FY,Fiscal year October to September
+SurgicalArea,"Surgery classification:  AOC, CVOR, ENDO, GENOR, HHOR"
+OperatingRoom,Operating room name
+ORCaseNumber,Unique operating room procedure number
+SurgicalSpecialty,"Surgical speciality unit maps to SSS_No:  ANES-18, BMTX-13,BURNS-1, CV-2, EGS-14, ENT-3, GI-4, GYN-5, LiverTX-13, NEURO-6, OPTH-7, ORT/TJ-ORT/TA-ORTHO-Podiatry-9, PLAS-10, PULM-THOR-11, RENAL-TX-13, ROBOTIC-(assigned to other SSS using robot), SURGONC-12, Transplant-13, TRAUMA-14, URO-15, VASA-16, VASCULAR-17"
+SSSNo,"Surgical Specialty Service number 1 to 18 (e.g., references prior row)"
+PatientType,"0 = Emergency Room, 1 = Outpatient, 2=Inpatient"
+SchedulePriority,"Emergency = 1, Routine = 2"
+AddOnIndicator,Yes - added surgical case to schedule within three days of surgery or No - surgical case was scheduled normally
+CaseDOW,Day of week for scheduled surgical case procedure
+CaseMonth,Month for scheduled surgical procedure
+PrimaryProcedure,Explanation of surgical procedure
+ScheduledStartDate_Time,Date/time surgical case procedure was scheduled to occur
+CaseStartDate_Time,Date /time surgical case procedure occurred
+CaseCreateDate_Time,Date/time surgical case procedure was entered into the clinical scheduling system
+CaseLevel,Numerical 1 to 7
+ASA_Class,Numerical 1 to 4 or 1E to 5E
+PatientAge,Age of patient in years at time of surgical case procedure
+PreopDiagnosis,Pre-operative diagnosis for surgical case procedure
+ScheduledCaseDuration,Estimated time scheduled for surgical case procedure in minutes
+PrimaryProcedureSurgeonComment,Surgeon comment field on outcome of surgical case procedure
+TotalSurgeryMin,Total minutes spent on the surgical case procedure 
+PatientInRoomMin,Total minutes patient spent in the operating room
+SetUpMin,Total minutes spent to setup the surgical case procedure prior to patient arrival
+CleanUpMin,Total minutes to clean and sanitize operatining room after surgical case procedure
+SchCreateDays,Number of days between surgical case procedure scheduling and occurrence
+RoomNo,Numerical room number where surgical procedure occurred
+OTS,0 for non-on-time-start of surgical proceure or 1 for on-time-start of surgical procedure
