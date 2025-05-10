@@ -2,7 +2,8 @@
 
 My assignments and exams from the course **MIS502: Data Management for Analytics** at WPI.
 
-I took this course in **Spring 2023**. The coursework included:
+I took this course in **Spring 2023**offered by Prof. Jim Ryan
+The coursework included:
 - 3 Exams:  
   - [Midterm Exam](https://github.com/devtechster/MIS502-Data-Management-for-Analytics/tree/main/Midterm%20Exam)  
   - [Final Exam](https://github.com/devtechster/MIS502-Data-Management-for-Analytics/tree/main/Final%20Exam)  
@@ -11,3 +12,4 @@ I took this course in **Spring 2023**. The coursework included:
 - [Final Project](https://github.com/devtechster/MIS502-Data-Management-for-Analytics/tree/main/Final%20Project)
 
 For course content, you can go through all the tutorials, which cover almost every topic discussed in class.
+Course Overview: I've learned new things that I never worked in my life, I was exposed to Python before Jan 2023 but this course polished my Python and SQL skills.
